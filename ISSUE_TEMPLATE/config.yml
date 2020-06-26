@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Create an issue
+    url: https://github.community/
+    about: Thanks for taking time to report your issue! Our main repo is on GitLab, click here to go there :)
